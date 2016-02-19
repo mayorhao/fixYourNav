@@ -2,4 +2,4 @@
 a small jQuery libary
 demo view on
 
-http://www.idouyu.cn/wp-content/uploads/demos/fixYourNav/index.html
+http://www.idouyu.cn/demos/fixYourNav/index.html
