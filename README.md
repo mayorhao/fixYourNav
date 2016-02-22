@@ -1,5 +1,5 @@
 # fixYourNav
 a small jQuery libary
-demo view on
+demo view on :
 
-http://www.idouyu.cn/demos/fixYourNav/index.html
+http://www.idouyu.cn/fixYourNav
